@@ -51,7 +51,7 @@ jupyter-server==2.3.0; python_version >= "3.8"
 jupyter-ydoc==0.2.2; python_version >= "3.7"
 jupyterlab-pygments==0.2.2; python_version >= "3.8"
 jupyterlab-server==2.19.0; python_version >= "3.7"
-jupyterlab==3.6.1; python_version >= "3.7"
+jupyterlab==4.4.8; python_version >= "3.7"  # Updated from 3.6.1 to patch HTML injection and related Dependabot alerts
 kiwisolver==1.4.4; python_version >= "3.8"
 llvmlite==0.39.1; python_version >= "3.7"
 markupsafe==2.1.2; python_version >= "3.8"
